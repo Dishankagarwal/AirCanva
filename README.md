@@ -1,4 +1,4 @@
-# Project Title: Hand Gesture-Based Drawing Application
+# Project Title: AirCanva
 
 ## Description:
 This project is a hand gesture-based drawing application that allows users to create digital artwork using hand movements tracked by a webcam. Leveraging computer vision techniques, this interactive application provides an intuitive and fun way to draw colorful patterns and designs on a canvas.
